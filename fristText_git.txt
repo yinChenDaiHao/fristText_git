@@ -1,3 +1,2 @@
-this is my first use git to command
-Git is a version control system.
-Git is free software
+git test frist~
+this is only a test
